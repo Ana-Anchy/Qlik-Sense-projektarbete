@@ -47,8 +47,14 @@ The solution combines **visual storytelling** with actionable insights for contr
 
 ---
 
-## 📷 Screenshots  
+### Dashboard Overview
+![Dashboard](Screenshot_2-10-2025_123431_.jpeg)
 
+### Product & Category Analysis
+![Products](Screenshot_2-10-2025_123443_.jpeg)
+
+### Yearly & Customer Analysis
+![Analysis](Screenshot_2-10-2025_123454_.jpeg)
  
 
 ---
