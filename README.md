@@ -51,10 +51,10 @@ The solution combines **visual storytelling** with actionable insights for contr
 ![Dashboard](Dashbord.png)
 
 ### Product & Category Analysis
-![Products](Screenshot_2-10-2025_123443_.jpeg)
+![Products](Översiktsflik.png)
 
 ### Yearly & Customer Analysis
-![Analysis](Screenshot_2-10-2025_123454_.jpeg)
+![Analysis](Analys.png)
  
 
 ---
